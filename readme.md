@@ -33,7 +33,6 @@
 
 - [ใช้ AI ช่วยในการทำงานน่าเบื่อพวกนั้นได้ไหม](exercises/using-ai-with-boring-task.md)
 
-
 ## แหล่งข้อมูลอ้างอิง และติดตามอัพเดต
 
 - [Youtube](https://www.youtube.com/teerasej)
