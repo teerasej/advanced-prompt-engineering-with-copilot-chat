@@ -3,15 +3,18 @@
 
 ## Summary
 
-Give a direct instruction without examples.
+You give the AI a task with no examples—it relies solely on its training to respond. It’s fast and simple, but accuracy can swing depending on how clear the instruction is.
 
 ## Example use case
 
-Quickly classify customer messages—e.g., identify if a customer’s email is a complaint or a praise.
+Classify customer email urgency without prior examples—ideal when you need a quick setup.
 
 ## Prompt
 
 ```
 Classify this customer feedback as “Complaint”, “Praise”, or “Inquiry”:
-“Your agent helped me a lot, but the process took too long.”
+
+“I received the policy documents, but I'm not sure which plan I should choose next.”
+
+Classification:
 ```

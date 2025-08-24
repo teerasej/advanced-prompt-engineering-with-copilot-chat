@@ -3,7 +3,7 @@
 
 ## Summary
 
-Ask Copilot to think step by step before giving an answer.
+Encourages the AI to think out loud, step by step, to reach better reasoning and accuracy for complex tasks.
 
 ## Example use case
 

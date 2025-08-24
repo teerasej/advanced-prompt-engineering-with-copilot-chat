@@ -3,11 +3,11 @@
 
 ## Summary
 
-Tree of Thoughts (ToT) enhances the reasoning process by structuring the model's thoughts in a tree-like format. This allows for more complex reasoning and the exploration of multiple pathways to a solution.
+The AI explores multiple reasoning paths (like branches on a tree), self-evaluates, and chooses the best solution. It’s deeper, more strategic thinking.
 
 ## Example use case
 
-When deciding between policy plans involving trade-offs (e.g., cost vs benefits).
+Evaluate multiple insurance plans (differing in cost and benefit), and recommend the one with the most balanced value based on customer profile.
 
 ## Prompt
 

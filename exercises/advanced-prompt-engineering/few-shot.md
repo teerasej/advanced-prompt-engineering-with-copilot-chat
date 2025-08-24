@@ -3,7 +3,7 @@
 
 ## Summary
 
-Provide a few examples in the prompt to show the pattern.
+You include a few examples to show how to complete the task. This helps the AI catch patterns and respond more consistently.  
 
 ## Example use case
 
