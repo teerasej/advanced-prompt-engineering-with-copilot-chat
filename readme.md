@@ -9,9 +9,9 @@
 
 - [งานของฉัน เอไอจะทำได้ไหม?](exercises/explore-your-boring-task.md)
 
-## Part 2: Prompt Gallery
+## Part 2: Copilot Free
 
-- [ใช้งาน Prompt Gallery](exercises/prompt-gallery.md)
+- [เริ่มต้นใช้ Copilot](exercises/copilot-chat.md)
 
 ## Part 3: AI ใน Microsoft 365
 

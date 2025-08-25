@@ -3,6 +3,11 @@
 
 > ในแบบฝึกหัดนี้ การใช้งานจะแตกต่างกันตามประเภทของ Account ที่ใช้งาน Copilot นะครับ
 
+### สำหรับผู้ใช้ Personal Account
+> กดเปิด [https://copilot.microsoft.com/](https://copilot.microsoft.com/) บนเว็บเบราเซอร์ 
+
+## ขั้นตอนการทดลองใช้งาน
+
 1. ให้ทำการสร้างไฟล์เอกสาร Word ใหม่
    ![alt text](../../images/copilot/2025-08-23_22-21-29.png)
 2. แบบฝึกหัดนี้ เราจะใช้คำสั่ง prompt ต่อไปนี้สำหรับสั่งงาน copilot

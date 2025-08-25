@@ -2,7 +2,18 @@
 
 > ในแบบฝึกหัดนี้ การใช้งานจะแตกต่างกันตามประเภทของ Account ที่ใช้งาน Copilot นะครับ
 
-1. จาก OneDrive ให้คลิกขวาที่ไฟล์ word บนหน้าเว็บ 
+### สำหรับผู้ใช้ Personal Account
+> กดเปิด [https://copilot.microsoft.com/](https://copilot.microsoft.com/) บนเว็บเบราเซอร์ 
+
+## ขั้นตอนการทดลองใช้งาน
+
+1. ทำการเพิ่ม Context ด้วยไฟล์ที่เตรียมไว้
+
+   ### สำหรับผู้ใช้ Personal Account
+   1. ทำการอัพโหลดไฟล์ Business Idea.docx ที่เตรียมไว้ จากปุ่ม update
+
+   ### สำหรับผู้ใช้ Copilot Chat /หรือ License
+   2. จาก OneDrive ให้คลิกขวาที่ไฟล์ word บนหน้าเว็บ 
    ![alt text](../../images/copilot/2025-08-23_21-41-54.png)
 
 2. สั่งให้ Copilot ช่วยสรุปเนื้อหาในเอกสารให้ โดยใช้คำสั่ง prompt ต่อไปนี้

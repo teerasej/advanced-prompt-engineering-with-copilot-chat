@@ -4,6 +4,12 @@
 
 ## เตรียมตัว
 
+### ถ้าไม่มี OneDrive account 
+
+ให้เตรียมใช้ไฟล์ **Business Idea.docx** และการใช้งานจะเป็นการทำงานผ่านหน้าจอ Copilot Free นะครับ
+
+### ถ้ามี OneDrive 
+
 1. ล๊อคอินเข้าใช้งาน https://onedrive.live.com/
 2. สร้าง folder ใหม่ชื่อ **MyCopilot** จากการกดปุ่ม **Create or upload > Folder**
    ![alt text](../images/copilot/2025-08-23_21-38-02.png)
