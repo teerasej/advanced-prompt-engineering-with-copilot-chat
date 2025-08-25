@@ -1,7 +1,7 @@
 
 # Advanced Prompt Engineering with Copilot Chat
 
-1. [ไฟล์เอกสารนำเสนอ](https://nextflowth-my.sharepoint.com/:b:/g/personal/teerasej_nextflowth_onmicrosoft_com/EWp7JqPgKNRDsbnRKH9y_5sBU7te5g0HI23_X_mVZHS82Q?e=ocQ6bG)
+1. [ไฟล์เอกสารนำเสนอ](https://nextflowth-my.sharepoint.com/:b:/g/personal/teerasej_nextflowth_onmicrosoft_com/EUrjoX6Zbk9Dil6ajMpk2AoBRJnoDqgArVuscTCjWpryvw?e=hfSMwE)
 2. [ดาวน์โหลดไฟล์สำหรับใช้ในเวิร์คชอป (zip file)](https://nextflowth-my.sharepoint.com/:u:/g/personal/teerasej_nextflowth_onmicrosoft_com/ERyEYYhr6BtIvocPrnfwQ24BEcMTorn96Swh_gegNGY5OA?e=wRaVVJ)
 
 
