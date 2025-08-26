@@ -2,7 +2,7 @@
 # Advanced Prompt Engineering with Copilot Chat
 
 1. [ไฟล์เอกสารนำเสนอ](https://nextflowth-my.sharepoint.com/:b:/g/personal/teerasej_nextflowth_onmicrosoft_com/EUrjoX6Zbk9Dil6ajMpk2AoBRJnoDqgArVuscTCjWpryvw?e=hfSMwE)
-2. [ดาวน์โหลดไฟล์สำหรับใช้ในเวิร์คชอป (zip file)](https://nextflowth-my.sharepoint.com/:u:/g/personal/teerasej_nextflowth_onmicrosoft_com/ERyEYYhr6BtIvocPrnfwQ24BEcMTorn96Swh_gegNGY5OA?e=wRaVVJ)
+2. [ดาวน์โหลดไฟล์สำหรับใช้ในเวิร์คชอป (zip file)](https://nextflowth-my.sharepoint.com/:u:/g/personal/teerasej_nextflowth_onmicrosoft_com/ERlEm6XPkaJJvYVoqPzM1ggBlAamEST_o0kes7bdTpEbhw?e=aM3GlD)
 
 
 ## Part 1: The task
@@ -32,6 +32,11 @@
 ## Part 5: Using AI with boring task
 
 - [ใช้ AI ช่วยในการทำงานน่าเบื่อพวกนั้นได้ไหม](exercises/using-ai-with-boring-task.md)
+
+## Learning path
+
+- [https://learn.microsoft.com/en-us/training/paths/work-smarter-with-ai/](https://learn.microsoft.com/en-us/training/paths/work-smarter-with-ai/)
+- [https://learn.microsoft.com/th-th/training/paths/get-started-with-microsoft-365-copilot/](https://learn.microsoft.com/th-th/training/paths/get-started-with-microsoft-365-copilot/)
 
 ## แหล่งข้อมูลอ้างอิง และติดตามอัพเดต
 
